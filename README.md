@@ -75,16 +75,16 @@ This repository documents my journey of **30 Days of Red Team** This is practica
 
 | Day | Topic | Status | Key Skills | Report |
 |-----|-------|--------|------------|--------|
-| [Day 01](./Day-01/README.md) | Environment Setup & Reconnaissance Basics | 🔄 In Progress | Nmap, OSINT, Python | [View](./Day-01/README.md) |
-| [Day 02](./Day-02/README.md) | Web App Fingerprinting | ⏳ Upcoming | Whatweb, Wappalyzer | — |
-| [Day 03](./Day-03/README.md) | Directory & File Enumeration | ⏳ Upcoming | Gobuster, FFUF | — |
-| [Day 04](./Day-04/README.md) | SQL Injection Fundamentals | ⏳ Upcoming | SQLMap, Manual SQLi | — |
-| [Day 05](./Day-05/README.md) | Cross-Site Scripting (XSS) | ⏳ Upcoming | Burp Suite, XSS payloads | — |
-| [Day 06](./Day-06/README.md) | Authentication Bypass | ⏳ Upcoming | Burp Suite, Logic flaws | — |
-| [Day 07](./Day-07/README.md) | Session Management Testing | ⏳ Upcoming | Cookie analysis, JWT | — |
-| [Day 08](./Day-08/README.md) | IDOR & Access Control | ⏳ Upcoming | Manual testing, Python | — |
-| [Day 09](./Day-09/README.md) | File Upload Vulnerabilities | ⏳ Upcoming | Web shells, bypass | — |
-| [Day 10](./Day-10/README.md) | Command Injection | ⏳ Upcoming | OS injection, payloads | — |
+| [Day 01](./Day_01/README.md) | Environment Setup & Reconnaissance Basics | 🔄 In Progress | Nmap, OSINT, Python | [View](./Day-01/README.md) |
+| [Day 02](./Day_02/README.md) | Web App Fingerprinting | ⏳ Upcoming | Whatweb, Wappalyzer | — |
+| [Day 03](./Day_03/README.md) | Directory & File Enumeration | ⏳ Upcoming | Gobuster, FFUF | — |
+| [Day 04](./Day_04/README.md) | SQL Injection Fundamentals | ⏳ Upcoming | SQLMap, Manual SQLi | — |
+| [Day 05](./Day_05/README.md) | Cross-Site Scripting (XSS) | ⏳ Upcoming | Burp Suite, XSS payloads | — |
+| [Day 06](./Day_06/README.md) | Authentication Bypass | ⏳ Upcoming | Burp Suite, Logic flaws | — |
+| [Day 07](./Day_07/README.md) | Session Management Testing | ⏳ Upcoming | Cookie analysis, JWT | — |
+| [Day 08](./Day_08/README.md) | IDOR & Access Control | ⏳ Upcoming | Manual testing, Python | — |
+| [Day 09](./Day_09/README.md) | File Upload Vulnerabilities | ⏳ Upcoming | Web shells, bypass | — |
+| [Day 10](./Day_10/README.md) | Command Injection | ⏳ Upcoming | OS injection, payloads | — |
 | Day 11–30 | *Coming soon...* | ⏳ | — | — |
 
 **Status Legend:** ✅ Complete · 🔄 In Progress · ⏳ Upcoming
