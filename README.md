@@ -20,7 +20,7 @@
 
 Hi, I'm **Subby** — a cybersecurity practitioner focused on hands-on offensive security, web application testing, and building real-world skills through structured practice.
 
-This repository documents my journey through the **[30 Days of Red Team](https://medium.com/30-days-of-red-team/start-here-about-30-days-of-red-team-50d0a3214e9f)** series — a practical, task-based curriculum covering core red team and penetration testing concepts. Each day I complete a new challenge, write a detailed technical report, and build or use Python scripts to automate tasks.
+This repository documents my journey of **30 Days of Red Team** This is practical, task-based curriculum covering core red team and penetration testing concepts. Each day I complete a new challenge, write a detailed technical report, and build or use Python scripts to automate tasks.
 
 **All testing is performed exclusively on intentionally vulnerable, legal practice platforms:**
 - 🏦 [VulnBank](https://github.com/vulnbank) — a deliberately vulnerable banking application
